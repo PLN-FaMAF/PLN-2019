@@ -1,0 +1,11 @@
+flake8
+nose
+docopt
+nltk
+numpy
+scipy
+scikit-learn
+featureforge
+jupyter
+jupyterlab
+-e .  # install our code in editing mode
