@@ -61,3 +61,11 @@ Correr flake8 sobre el paquete o módulo que se desea chequear. Por ejemplo::
 Correr Pylint de la misma manera. Por ejemplo::
 
     pylint languagemodeling
+
+
+Jupyter (IDE y notebooks)
+-------------------------
+
+Correr Jupyter Lab (abre una ventana en el navegador por defecto)::
+
+    jupyter lab
