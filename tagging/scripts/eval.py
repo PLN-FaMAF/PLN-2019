@@ -14,7 +14,7 @@ import pickle
 import sys
 from collections import defaultdict
 
-from ancora import SimpleAncoraCorpusReader
+from tagging.ancora import SimpleAncoraCorpusReader
 
 
 if __name__ == '__main__':

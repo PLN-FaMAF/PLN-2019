@@ -14,8 +14,7 @@ Options:
 from docopt import docopt
 import pickle
 
-from ancora import SimpleAncoraCorpusReader
-
+from tagging.ancora import SimpleAncoraCorpusReader
 from tagging.baseline import BaselineTagger, BadBaselineTagger
 
 

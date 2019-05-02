@@ -10,7 +10,7 @@ Options:
 from docopt import docopt
 from collections import defaultdict
 
-from ancora import SimpleAncoraCorpusReader
+from tagging.ancora import SimpleAncoraCorpusReader
 
 
 class POSStats:
